@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sean-Connaughton
 - 👀 I’m interested in programming, especially topics such as object-oriented programming and algorithms and data structures
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me - my LinkedIn: https://www.linkedin.com/in/sean-connaughton-computing/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I studied Japanese in my last two years of secondary school
